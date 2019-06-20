@@ -1,4 +1,4 @@
-# testapp
+# GameX
 
 A new Flutter project.
 
