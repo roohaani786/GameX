@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "80144428118",
+    "firebase_url": "https://realtime-database-e7870.firebaseio.com",
+    "project_id": "realtime-database-e7870",
+    "storage_bucket": "realtime-database-e7870.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80144428118:android:4d973ce8611ae520",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80144428118-cql4jsdqg4fr0mcoa0q6sq1db2n8kq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByggELbuPNpb_TBREt-6RXAj6GjtCfqxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80144428118-cql4jsdqg4fr0mcoa0q6sq1db2n8kq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80144428118:android:b7359d9bae29a7b8",
+        "android_client_info": {
+          "package_name": "com.example.game_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80144428118-cql4jsdqg4fr0mcoa0q6sq1db2n8kq4o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByggELbuPNpb_TBREt-6RXAj6GjtCfqxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80144428118-cql4jsdqg4fr0mcoa0q6sq1db2n8kq4o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
